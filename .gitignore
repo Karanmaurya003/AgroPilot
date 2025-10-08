@@ -12,7 +12,6 @@
 .swiftpm/
 migrate_working_dir/
 .venv
-.crop_api/__pycache__
 # IntelliJ related
 *.iml
 *.ipr
