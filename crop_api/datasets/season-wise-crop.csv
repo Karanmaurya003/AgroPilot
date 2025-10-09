@@ -1,0 +1,629 @@
+district_name,season,crop_name,yield
+Ahmednagar,kharif,arhar/tur,0.5
+Akola,kharif,arhar/tur,2.27
+Amravati,kharif,arhar/tur,0.82
+Aurangabad,kharif,arhar/tur,0.77
+Beed,kharif,arhar/tur,0.75
+Bhandara,kharif,arhar/tur,0.5
+Buldhana,kharif,arhar/tur,1.2
+Chandrapur,kharif,arhar/tur,1.35
+Dhule,kharif,arhar/tur,0.51
+Gadchiroli,kharif,arhar/tur,0.9
+Gondia,kharif,arhar/tur,0.7
+Hingoli,kharif,arhar/tur,0.92
+Jalgaon,kharif,arhar/tur,0.51
+Jalna,kharif,arhar/tur,1.28
+Kolhapur,kharif,arhar/tur,1.97
+Latur,kharif,arhar/tur,1.22
+Nagpur,kharif,arhar/tur,1.29
+Nanded,kharif,arhar/tur,0.71
+Nandurbar,kharif,arhar/tur,0.45
+Nashik,kharif,arhar/tur,0.35
+Osmanabad,kharif,arhar/tur,0.37
+Palghar,kharif,arhar/tur,0.44
+Parbhani,kharif,arhar/tur,1.15
+Pune,kharif,arhar/tur,0.65
+Raigad,kharif,arhar/tur,0.59
+Sangli,kharif,arhar/tur,0.21
+Satara,kharif,arhar/tur,0.83
+Solapur,kharif,arhar/tur,0.57
+Wardha,kharif,arhar/tur,1.35
+Washim,kharif,arhar/tur,0.63
+Yavatmal,kharif,arhar/tur,0.31
+Ahmednagar,kharif,bajra,0.87
+Akola,kharif,bajra,0.23
+Amravati,kharif,bajra,1
+Aurangabad,kharif,bajra,0.91
+Beed,kharif,bajra,0.8
+Buldhana,kharif,bajra,0.23
+Dhule,kharif,bajra,0.52
+Hingoli,kharif,bajra,0.17
+Jalgaon,kharif,bajra,0.8
+Jalna,kharif,bajra,1.29
+Latur,kharif,bajra,0.22
+Nanded,kharif,bajra,0.23
+Nandurbar,kharif,bajra,0.83
+Nashik,kharif,bajra,1.02
+Osmanabad,kharif,bajra,0.3
+Parbhani,kharif,bajra,0.47
+Pune,kharif,bajra,1.31
+Sangli,kharif,bajra,0.35
+Satara,kharif,bajra,0.52
+Solapur,kharif,bajra,0.23
+Washim,kharif,bajra,0.23
+Yavatmal,kharif,bajra,0.22
+Ahmednagar,kharif,cotton,0.92
+Akola,kharif,cotton,2.46
+Amravati,kharif,cotton,1.67
+Aurangabad,kharif,cotton,1.41
+Beed,kharif,cotton,0.98
+Bhandara,kharif,cotton,2.68
+Buldhana,kharif,cotton,0.8
+Chandrapur,kharif,cotton,2.4
+Dhule,kharif,cotton,0.81
+Gadchiroli,kharif,cotton,3.01
+Gondia,kharif,cotton,2.5
+Hingoli,kharif,cotton,2.51
+Jalgaon,kharif,cotton,0.94
+Jalna,kharif,cotton,2.33
+Latur,kharif,cotton,1.52
+Nagpur,kharif,cotton,2.67
+Nanded,kharif,cotton,1.06
+Nandurbar,kharif,cotton,1.58
+Nashik,kharif,cotton,1.18
+Osmanabad,kharif,cotton,0.52
+Parbhani,kharif,cotton,1.39
+Pune,kharif,cotton,34.14
+Sangli,kharif,cotton,1.88
+Satara,kharif,cotton,1.86
+Solapur,kharif,cotton,0.46
+Wardha,kharif,cotton,2.75
+Washim,kharif,cotton,1.68
+Yavatmal,kharif,cotton,1.17
+Ahmednagar,rabi,gram,0.85
+Akola,rabi,gram,1.26
+Amravati,rabi,gram,1.21
+Aurangabad,rabi,gram,1
+Beed,rabi,gram,1
+Bhandara,rabi,gram,0.7
+Buldhana,rabi,gram,1.33
+Chandrapur,rabi,gram,0.83
+Dhule,rabi,gram,1.33
+Gadchiroli,rabi,gram,0.8
+Gondia,rabi,gram,0.39
+Hingoli,rabi,gram,1.04
+Jalgaon,rabi,gram,1.38
+Jalna,rabi,gram,1.02
+Kolhapur,rabi,gram,1.06
+Latur,rabi,gram,1.12
+Nagpur,rabi,gram,0.93
+Nanded,rabi,gram,1.51
+Nandurbar,rabi,gram,0.98
+Nashik,rabi,gram,0.83
+Osmanabad,rabi,gram,0.9
+Palghar,rabi,gram,0.73
+Parbhani,rabi,gram,0.89
+Pune,rabi,gram,1.07
+Raigad,rabi,gram,0.42
+Ratnagiri,rabi,gram,0.48
+Sangli,rabi,gram,0.88
+Satara,rabi,gram,0.97
+Solapur,rabi,gram,0.81
+Thane,rabi,gram,0.7
+Wardha,rabi,gram,1.01
+Washim,rabi,gram,0.92
+Yavatmal,rabi,gram,1.43
+Ahmednagar,kharif,groundnut,0.59
+Akola,kharif,groundnut,0.68
+Amravati,kharif,groundnut,0.33
+Aurangabad,kharif,groundnut,0.98
+Beed,kharif,groundnut,0.44
+Buldhana,kharif,groundnut,0.85
+Dhule,kharif,groundnut,0.58
+Gadchiroli,kharif,groundnut,0.23
+Gondia,kharif,groundnut,0.25
+Hingoli,kharif,groundnut,0.48
+Jalgaon,kharif,groundnut,0.74
+Jalna,kharif,groundnut,2.34
+Kolhapur,kharif,groundnut,1.19
+Latur,kharif,groundnut,0.33
+Nagpur,kharif,groundnut,0.14
+Nanded,kharif,groundnut,0.38
+Nandurbar,kharif,groundnut,0.87
+Nashik,kharif,groundnut,0.75
+Osmanabad,kharif,groundnut,0.54
+Parbhani,kharif,groundnut,0.33
+Pune,kharif,groundnut,1
+Sangli,kharif,groundnut,0.81
+Satara,kharif,groundnut,0.91
+Sindhudurg,kharif,groundnut,0.99
+Solapur,kharif,groundnut,0.45
+Wardha,kharif,groundnut,0.56
+Washim,kharif,groundnut,0.64
+Ahmednagar,kharif,jowar,0.28
+Ahmednagar,rabi,jowar,0.52
+Akola,kharif,jowar,0.82
+Akola,rabi,jowar,0.79
+Amravati,kharif,jowar,0.33
+Amravati,rabi,jowar,0.79
+Aurangabad,kharif,jowar,0.31
+Aurangabad,rabi,jowar,0.98
+Beed,kharif,jowar,0.54
+Beed,rabi,jowar,0.75
+Buldhana,kharif,jowar,0.16
+Buldhana,rabi,jowar,0.92
+Chandrapur,kharif,jowar,0.77
+Chandrapur,rabi,jowar,0.48
+Dhule,kharif,jowar,0.72
+Dhule,rabi,jowar,1.92
+Gadchiroli,kharif,jowar,0.53
+Gadchiroli,rabi,jowar,0.67
+Hingoli,kharif,jowar,0.71
+Hingoli,rabi,jowar,1.2
+Jalgaon,kharif,jowar,0.66
+Jalgaon,rabi,jowar,1.65
+Jalna,kharif,jowar,1.09
+Jalna,rabi,jowar,0.92
+Kolhapur,kharif,jowar,1.08
+Kolhapur,rabi,jowar,1.63
+Latur,kharif,jowar,0.79
+Latur,rabi,jowar,0.95
+Nagpur,kharif,jowar,0.4
+Nagpur,rabi,jowar,0.57
+Nanded,kharif,jowar,0.63
+Nanded,rabi,jowar,1.39
+Nandurbar,kharif,jowar,1.16
+Nandurbar,rabi,jowar,1.15
+Nashik,kharif,jowar,0.52
+Nashik,rabi,jowar,0.63
+Osmanabad,kharif,jowar,0.58
+Osmanabad,rabi,jowar,0.92
+Parbhani,kharif,jowar,0.65
+Parbhani,rabi,jowar,1.03
+Pune,kharif,jowar,0.81
+Pune,rabi,jowar,0.71
+Sangli,kharif,jowar,0.86
+Sangli,rabi,jowar,0.98
+Satara,kharif,jowar,0.7
+Satara,rabi,jowar,0.8
+Solapur,kharif,jowar,0.25
+Solapur,rabi,jowar,0.68
+Wardha,kharif,jowar,0.22
+Wardha,rabi,jowar,0.56
+Washim,kharif,jowar,0.36
+Washim,rabi,jowar,0.79
+Yavatmal,kharif,jowar,0.31
+Yavatmal,rabi,jowar,0.79
+Ahmednagar,kharif,maize,0.34
+Ahmednagar,rabi,maize,2.94
+Ahmednagar,summer,maize,2.7
+Akola,kharif,maize,2.16
+Akola,rabi,maize,1.25
+Amravati,kharif,maize,2
+Amravati,rabi,maize,0.78
+Amravati,summer,maize,1.31
+Aurangabad,kharif,maize,1.08
+Aurangabad,rabi,maize,1.99
+Aurangabad,summer,maize,1.2
+Beed,kharif,maize,0.28
+Beed,rabi,maize,0.97
+Beed,summer,maize,2.25
+Buldhana,kharif,maize,0.55
+Buldhana,rabi,maize,1.35
+Buldhana,summer,maize,1.59
+Chandrapur,kharif,maize,1.71
+Chandrapur,summer,maize,1
+Dhule,kharif,maize,1.08
+Dhule,rabi,maize,5.14
+Dhule,summer,maize,1.37
+Gadchiroli,kharif,maize,1.9
+Gadchiroli,rabi,maize,1.49
+Gadchiroli,summer,maize,1.39
+Gondia,kharif,maize,0.4
+Gondia,rabi,maize,0.79
+Gondia,summer,maize,1.2
+Hingoli,kharif,maize,0.43
+Hingoli,rabi,maize,1.26
+Hingoli,summer,maize,0.85
+Jalgaon,kharif,maize,0.76
+Jalgaon,rabi,maize,3.15
+Jalgaon,summer,maize,3.6
+Jalna,kharif,maize,3.37
+Jalna,rabi,maize,3.84
+Jalna,summer,maize,2.5
+Kolhapur,kharif,maize,2.69
+Kolhapur,rabi,maize,2.85
+Kolhapur,summer,maize,2.43
+Latur,kharif,maize,0.22
+Latur,rabi,maize,1.3
+Nagpur,kharif,maize,2.27
+Nagpur,rabi,maize,1.75
+Nagpur,summer,maize,1.14
+Nanded,kharif,maize,0.59
+Nanded,rabi,maize,1.8
+Nanded,summer,maize,1.24
+Nandurbar,kharif,maize,1.9
+Nandurbar,rabi,maize,2.88
+Nandurbar,summer,maize,1.63
+Nashik,kharif,maize,1.54
+Nashik,rabi,maize,2.89
+Nashik,summer,maize,2.52
+Osmanabad,kharif,maize,0.53
+Osmanabad,rabi,maize,1.81
+Osmanabad,summer,maize,0.95
+Palghar,rabi,maize,3.5
+Parbhani,kharif,maize,0.72
+Parbhani,rabi,maize,1.26
+Parbhani,summer,maize,1.21
+Pune,kharif,maize,3.56
+Pune,rabi,maize,4.2
+Pune,summer,maize,2.5
+Ratnagiri,rabi,maize,2.61
+Sangli,kharif,maize,1.85
+Sangli,rabi,maize,2.1
+Sangli,summer,maize,2
+Satara,kharif,maize,1.4
+Satara,rabi,maize,3.41
+Satara,summer,maize,1.85
+Sindhudurg,rabi,maize,3.17
+Solapur,kharif,maize,1.23
+Solapur,rabi,maize,2.33
+Solapur,summer,maize,2.6
+Wardha,kharif,maize,1.62
+Wardha,rabi,maize,1.05
+Washim,kharif,maize,1.84
+Washim,rabi,maize,0.34
+Yavatmal,kharif,maize,0.15
+Yavatmal,rabi,maize,0.94
+Ahmednagar,kharif,moong,0.16
+Akola,kharif,moong,0.4
+Amravati,kharif,moong,0.15
+Aurangabad,kharif,moong,0.51
+Beed,kharif,moong,0.21
+Bhandara,kharif,moong,0.2
+Buldhana,kharif,moong,0.77
+Chandrapur,kharif,moong,0.35
+Dhule,kharif,moong,0.45
+Gadchiroli,kharif,moong,0.2
+Gondia,kharif,moong,0.38
+Hingoli,kharif,moong,0.69
+Jalgaon,kharif,moong,0.52
+Jalna,kharif,moong,0.64
+Kolhapur,kharif,moong,0.65
+Latur,kharif,moong,0.45
+Nagpur,kharif,moong,0.4
+Nanded,kharif,moong,0.49
+Nandurbar,kharif,moong,0.5
+Nashik,kharif,moong,0.63
+Osmanabad,kharif,moong,0.27
+Parbhani,kharif,moong,0.4
+Pune,kharif,moong,0.26
+Sangli,kharif,moong,0.2
+Satara,kharif,moong,0.36
+Solapur,kharif,moong,0.35
+Wardha,kharif,moong,0.39
+Washim,kharif,moong,0.46
+Yavatmal,kharif,moong,0.35
+Ahmednagar,kharif,niger seed,0.15
+Akola,kharif,niger seed,0.15
+Aurangabad,kharif,niger seed,0
+Beed,kharif,niger seed,0.07
+Dhule,kharif,niger seed,0.15
+Hingoli,kharif,niger seed,0.14
+Jalna,kharif,niger seed,0.1
+Kolhapur,kharif,niger seed,0.4
+Latur,kharif,niger seed,0.27
+Nanded,kharif,niger seed,0.13
+Nashik,kharif,niger seed,0.15
+Osmanabad,kharif,niger seed,0.14
+Parbhani,kharif,niger seed,0.17
+Pune,kharif,niger seed,0.14
+Raigad,kharif,niger seed,0.25
+Satara,kharif,niger seed,0.37
+Solapur,kharif,niger seed,0.11
+Washim,kharif,niger seed,0.17
+Ahmednagar,rabi,other pulses,0.3
+Amravati,rabi,other pulses,0.47
+Aurangabad,rabi,other pulses,0.33
+Beed,rabi,other pulses,0.5
+Bhandara,rabi,other pulses,0.72
+Buldhana,rabi,other pulses,0.3
+Chandrapur,rabi,other pulses,0.58
+Dhule,rabi,other pulses,0.5
+Gadchiroli,rabi,other pulses,0.38
+Gondia,rabi,other pulses,0.47
+Hingoli,rabi,other pulses,0.35
+Jalgaon,rabi,other pulses,0.77
+Kolhapur,rabi,other pulses,0.42
+Latur,rabi,other pulses,0.32
+Nagpur,rabi,other pulses,0.54
+Nanded,rabi,other pulses,0.33
+Nandurbar,rabi,other pulses,0.38
+Nashik,rabi,other pulses,0.33
+Osmanabad,rabi,other pulses,0.36
+Palghar,rabi,other pulses,0.75
+Parbhani,rabi,other pulses,0.53
+Pune,rabi,other pulses,0.28
+Raigad,rabi,other pulses,0.35
+Ratnagiri,rabi,other pulses,0.75
+Sangli,rabi,other pulses,0.3
+Satara,rabi,other pulses,0.54
+Sindhudurg,rabi,other pulses,0.67
+Solapur,rabi,other pulses,0.3
+Thane,rabi,other pulses,0.73
+Ahmednagar,kharif,other cereals,0.22
+Aurangabad,kharif,other cereals,0.43
+Beed,kharif,other cereals,0.3
+Buldhana,kharif,other cereals,0.45
+Chandrapur,kharif,other cereals,0.68
+Dhule,kharif,other cereals,0.55
+Hingoli,kharif,other cereals,0.37
+Jalgaon,kharif,other cereals,0.47
+Jalna,kharif,other cereals,0.09
+Kolhapur,kharif,other cereals,0.5
+Latur,kharif,other cereals,0.23
+Nagpur,kharif,other cereals,0.4
+Nanded,kharif,other cereals,3.33
+Nandurbar,kharif,other cereals,0.89
+Nashik,kharif,other cereals,0.48
+Osmanabad,kharif,other cereals,0.28
+Palghar,kharif,other cereals,0.54
+Parbhani,kharif,other cereals,0.36
+Pune,kharif,other cereals,0.85
+Raigad,kharif,other cereals,0.43
+Ratnagiri,kharif,other cereals,0.5
+Sangli,kharif,other cereals,0.1
+Satara,kharif,other cereals,0.45
+Sindhudurg,kharif,other cereals,0.51
+Solapur,kharif,other cereals,0.29
+Thane,kharif,other cereals,0.52
+Wardha,kharif,other cereals,0.33
+Washim,kharif,other cereals,0.73
+Ahmednagar,kharif,other pulses,0.12
+Aurangabad,kharif,other pulses,0.21
+Beed,kharif,other pulses,0.23
+Bhandara,kharif,other pulses,0.5
+Buldhana,kharif,other pulses,0.3
+Chandrapur,kharif,other pulses,0.55
+Dhule,kharif,other pulses,0.35
+Gadchiroli,kharif,other pulses,0.29
+Gondia,kharif,other pulses,0.47
+Hingoli,kharif,other pulses,0.08
+Jalgaon,kharif,other pulses,0.33
+Jalna,kharif,other pulses,0.06
+Kolhapur,kharif,other pulses,0.68
+Latur,kharif,other pulses,0.18
+Nagpur,kharif,other pulses,0.37
+Nanded,kharif,other pulses,0.15
+Nandurbar,kharif,other pulses,0.33
+Nashik,kharif,other pulses,0.47
+Osmanabad,kharif,other pulses,0.19
+Palghar,kharif,other pulses,0.54
+Parbhani,kharif,other pulses,0.14
+Pune,kharif,other pulses,0.38
+Ratnagiri,kharif,other pulses,0.5
+Sangli,kharif,other pulses,0.21
+Satara,kharif,other pulses,0.61
+Sindhudurg,kharif,other pulses,0.45
+Solapur,kharif,other pulses,0.24
+Thane,kharif,other pulses,0.5
+Washim,kharif,other pulses,0.45
+Ahmednagar,kharif,other oilseeds,0.2
+Aurangabad,kharif,other oilseeds,0.15
+Beed,kharif,other oilseeds,0.2
+Buldhana,kharif,other oilseeds,0.5
+Dhule,kharif,other oilseeds,0.45
+Hingoli,kharif,other oilseeds,0.16
+Jalgaon,kharif,other oilseeds,0.2
+Jalna,kharif,other oilseeds,0.14
+Latur,kharif,other oilseeds,0.21
+Nagpur,kharif,other oilseeds,0.33
+Nanded,kharif,other oilseeds,0.2
+Nandurbar,kharif,other oilseeds,0.26
+Nashik,kharif,other oilseeds,0.46
+Osmanabad,kharif,other oilseeds,0.21
+Parbhani,kharif,other oilseeds,0.25
+Pune,kharif,other oilseeds,0.22
+Ratnagiri,kharif,other oilseeds,0.25
+Sangli,kharif,other oilseeds,0.18
+Satara,kharif,other oilseeds,0.33
+Solapur,kharif,other oilseeds,0.25
+Wardha,kharif,other oilseeds,0.29
+Washim,kharif,other oilseeds,0.53
+Ahmednagar,kharif,ragi,1.15
+Aurangabad,kharif,ragi,1.04
+Beed,kharif,ragi,1.05
+Buldhana,kharif,ragi,1
+Dhule,kharif,ragi,0.65
+Kolhapur,kharif,ragi,1.67
+Nandurbar,kharif,ragi,0.58
+Nashik,kharif,ragi,0.64
+Osmanabad,kharif,ragi,1
+Palghar,kharif,ragi,0.77
+Pune,kharif,ragi,0.72
+Raigad,kharif,ragi,0.82
+Ratnagiri,kharif,ragi,1.4
+Satara,kharif,ragi,1.07
+Sindhudurg,kharif,ragi,2.04
+Solapur,kharif,ragi,0.84
+Thane,kharif,ragi,0.72
+Ahmednagar,kharif,rice,1.12
+Amravati,kharif,rice,0.19
+Aurangabad,kharif,rice,0.2
+Beed,kharif,rice,0.12
+Bhandara,kharif,rice,1.62
+Bhandara,summer,rice,2.68
+Chandrapur,kharif,rice,1.4
+Chandrapur,summer,rice,2.49
+Dhule,kharif,rice,1.42
+Gadchiroli,kharif,rice,1.7
+Gadchiroli,summer,rice,2.32
+Gondia,kharif,rice,1.99
+Gondia,summer,rice,2.61
+Jalna,kharif,rice,0.18
+Kolhapur,kharif,rice,2.43
+Kolhapur,summer,rice,3.4
+Latur,kharif,rice,0.08
+Nagpur,kharif,rice,1.57
+Nagpur,summer,rice,2.27
+Nanded,kharif,rice,0.69
+Nanded,summer,rice,2.58
+Nandurbar,kharif,rice,1.6
+Nashik,kharif,rice,1.19
+Osmanabad,kharif,rice,0.11
+Palghar,kharif,rice,1.78
+Palghar,summer,rice,2.64
+Parbhani,kharif,rice,0.1
+Pune,kharif,rice,1.81
+Raigad,kharif,rice,1.93
+Raigad,summer,rice,3.34
+Ratnagiri,kharif,rice,3.16
+Ratnagiri,summer,rice,2
+Sangli,kharif,rice,1.27
+Satara,kharif,rice,1.44
+Sindhudurg,kharif,rice,2.5
+Sindhudurg,summer,rice,2.49
+Solapur,kharif,rice,0.16
+Thane,kharif,rice,2.15
+Thane,summer,rice,3.11
+Ahmednagar,kharif,sesamum,0.13
+Akola,kharif,sesamum,0.03
+Amravati,kharif,sesamum,0.15
+Aurangabad,kharif,sesamum,0.23
+Beed,kharif,sesamum,0.1
+Bhandara,kharif,sesamum,0.3
+Buldhana,kharif,sesamum,0.09
+Chandrapur,kharif,sesamum,0.45
+Dhule,kharif,sesamum,0.12
+Gadchiroli,kharif,sesamum,0.12
+Gondia,kharif,sesamum,0.13
+Hingoli,kharif,sesamum,0
+Jalgaon,kharif,sesamum,0.32
+Jalna,kharif,sesamum,0.09
+Kolhapur,kharif,sesamum,0.13
+Latur,kharif,sesamum,0.21
+Nagpur,kharif,sesamum,0.2
+Nanded,kharif,sesamum,0.15
+Nandurbar,kharif,sesamum,0.33
+Nashik,kharif,sesamum,0.14
+Osmanabad,kharif,sesamum,0.22
+Parbhani,kharif,sesamum,0.21
+Pune,kharif,sesamum,0.22
+Ratnagiri,kharif,sesamum,0.38
+Satara,kharif,sesamum,0.21
+Solapur,kharif,sesamum,0.09
+Wardha,kharif,sesamum,0.18
+Washim,kharif,sesamum,0.37
+Yavatmal,kharif,sesamum,0.04
+Ahmednagar,kharif,soyabean,0.57
+Akola,kharif,soyabean,0.91
+Amravati,kharif,soyabean,0.83
+Aurangabad,kharif,soyabean,0.82
+Beed,kharif,soyabean,0.78
+Bhandara,kharif,soyabean,1.04
+Buldhana,kharif,soyabean,1.35
+Chandrapur,kharif,soyabean,0.88
+Dhule,kharif,soyabean,0.77
+Gadchiroli,kharif,soyabean,2.3
+Hingoli,kharif,soyabean,1.98
+Jalgaon,kharif,soyabean,0.55
+Jalna,kharif,soyabean,1.71
+Kolhapur,kharif,soyabean,2
+Latur,kharif,soyabean,1.1
+Nagpur,kharif,soyabean,1.67
+Nanded,kharif,soyabean,1.36
+Nandurbar,kharif,soyabean,1.46
+Nashik,kharif,soyabean,1.01
+Osmanabad,kharif,soyabean,1.21
+Parbhani,kharif,soyabean,1.03
+Pune,kharif,soyabean,0.81
+Sangli,kharif,soyabean,0.86
+Satara,kharif,soyabean,1.44
+Solapur,kharif,soyabean,0.64
+Wardha,kharif,soyabean,1.3
+Washim,kharif,soyabean,1.09
+Yavatmal,kharif,soyabean,0.82
+Ahmednagar,kharif,sunflower,1.26
+Akola,kharif,sunflower,0.42
+Amravati,kharif,sunflower,0.33
+Aurangabad,kharif,sunflower,0.35
+Beed,kharif,sunflower,0.38
+Bhandara,kharif,sunflower,0
+Buldhana,kharif,sunflower,0.47
+Dhule,kharif,sunflower,0.33
+Hingoli,kharif,sunflower,0.5
+Jalna,kharif,sunflower,0.27
+Kolhapur,kharif,sunflower,0
+Latur,kharif,sunflower,0.41
+Nanded,kharif,sunflower,0.29
+Nandurbar,kharif,sunflower,0.79
+Nashik,kharif,sunflower,0.15
+Osmanabad,kharif,sunflower,0.29
+Parbhani,kharif,sunflower,0.11
+Pune,kharif,sunflower,0.25
+Sangli,kharif,sunflower,0.2
+Satara,kharif,sunflower,0.48
+Solapur,kharif,sunflower,0.35
+Washim,kharif,sunflower,0
+Ahmednagar,kharif,urad,0.22
+Akola,kharif,urad,0.36
+Amravati,kharif,urad,0.18
+Aurangabad,kharif,urad,0.56
+Beed,kharif,urad,0.22
+Bhandara,kharif,urad,0.28
+Buldhana,kharif,urad,0.67
+Chandrapur,kharif,urad,0.34
+Dhule,kharif,urad,0.39
+Gadchiroli,kharif,urad,0.25
+Gondia,kharif,urad,0.5
+Hingoli,kharif,urad,0.67
+Jalgaon,kharif,urad,0.62
+Jalna,kharif,urad,0.8
+Kolhapur,kharif,urad,0.84
+Latur,kharif,urad,0.57
+Nagpur,kharif,urad,0.45
+Nanded,kharif,urad,0.67
+Nandurbar,kharif,urad,0.5
+Nashik,kharif,urad,0.5
+Osmanabad,kharif,urad,0.32
+Palghar,kharif,urad,0.37
+Parbhani,kharif,urad,0.36
+Pune,kharif,urad,0.65
+Sangli,kharif,urad,0.32
+Satara,kharif,urad,0.36
+Sindhudurg,kharif,urad,0.5
+Solapur,kharif,urad,0.36
+Thane,kharif,urad,0.83
+Wardha,kharif,urad,0.11
+Washim,kharif,urad,0.47
+Yavatmal,kharif,urad,0.36
+Ahmednagar,rabi,wheat,2.1
+Akola,rabi,wheat,1.29
+Amravati,rabi,wheat,1.74
+Aurangabad,rabi,wheat,2.11
+Beed,rabi,wheat,1.29
+Bhandara,rabi,wheat,1.21
+Buldhana,rabi,wheat,1.86
+Chandrapur,rabi,wheat,0.72
+Dhule,rabi,wheat,2.47
+Gadchiroli,rabi,wheat,0.72
+Gondia,rabi,wheat,0.56
+Hingoli,rabi,wheat,0.79
+Jalgaon,rabi,wheat,2.47
+Jalna,rabi,wheat,1.6
+Kolhapur,rabi,wheat,2.35
+Latur,rabi,wheat,0.65
+Nagpur,rabi,wheat,1.41
+Nanded,rabi,wheat,0.91
+Nandurbar,rabi,wheat,2.85
+Nashik,rabi,wheat,2.55
+Osmanabad,rabi,wheat,0.56
+Palghar,rabi,wheat,2.9
+Parbhani,rabi,wheat,1.03
+Pune,rabi,wheat,2.07
+Sangli,rabi,wheat,1.71
+Satara,rabi,wheat,1.97
+Solapur,rabi,wheat,1.13
+Wardha,rabi,wheat,1.38
+Washim,rabi,wheat,1.31
+Yavatmal,rabi,wheat,1.21
