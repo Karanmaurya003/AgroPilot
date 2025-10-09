@@ -1,0 +1,3 @@
+[submodule "crop_api"]
+	path = crop_api
+	url = https://github.com/Karanmaurya003/crop_api.git
