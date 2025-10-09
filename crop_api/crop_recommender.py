@@ -21,8 +21,8 @@ def get_final_recommendation(district_name_input, season_name_input, current_tem
     # --- Step 1: Load and standardize datasets ---
     # The paths are relative to where the script is run.
     try:
-        df_season = pd.read_csv('datasets\season-wise-crop.csv')
-        df_weather = pd.read_excel('datasets\weather-wise-crop.xlsx')
+        df_season = pd.read_csv('datasets/season-wise-crop.csv')
+        df_weather = pd.read_excel('datasets/weather-wise-crop.xlsx')
     except (FileNotFoundError, pd.errors.ParserError) as e:
         # Return an empty DataFrame on error, so it can be handled by the caller
         return pd.DataFrame()
