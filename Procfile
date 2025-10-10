@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: gunicorn crop_api.app:app
