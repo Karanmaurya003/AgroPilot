@@ -228,7 +228,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                   child: const Text(
                                     'I have Soil Test Reports',
                                     style: TextStyle(
-                                        fontSize: 20, color: Color.fromARGB(255, 9, 9, 9)),
+                                        fontSize: 16, color: Color.fromARGB(255, 9, 9, 9)),
                                   ),
                                 ),
                                 const SizedBox(height: 15),
@@ -258,7 +258,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                   child: const Text(
                                     'I don\'t have Soil Test Reports',
                                     style: TextStyle(
-                                        fontSize: 20, color: Color.fromARGB(255, 15, 15, 15)),
+                                        fontSize: 16, color: Color.fromARGB(255, 15, 15, 15)),
                                   ),
                                 ),
                               ],
