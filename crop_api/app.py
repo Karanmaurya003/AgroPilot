@@ -117,10 +117,10 @@ def predict_lab_report():
 
 # ----------------------------------------
 # 4️⃣ Without Lab Report
-# ----------------------------------------
 @app.route('/predict_no_lab_report', methods=['POST'])
 def predict_no_lab_report():
     data = request.get_json()
+    print("\n🛰️ Incoming request to /predict_no_lab_report:", data)  # ADD THIS LINE
 
     try:
         district = data['district']
@@ -128,7 +128,10 @@ def predict_no_lab_report():
         temperature = data['temperature']
         rainfall = data['rainfall']
 
+        print(f"📊 Inputs → District: {district}, Season: {season}, Temp: {temperature}, Rainfall: {rainfall}")
+
         final_recs = get_final_recommendation(district, season, temperature, rainfall)
+        print(f"✅ get_final_recommendation returned {len(final_recs)} records")
 
         if final_recs.empty:
             return jsonify({"error": "No recommendations available"}), 404
@@ -136,8 +139,8 @@ def predict_no_lab_report():
         return jsonify(final_recs.to_dict(orient='records')), 200
 
     except Exception as e:
+        print(f"❌ Error in /predict_no_lab_report: {e}")
         return jsonify({"error": str(e)}), 500
-
 
 # ----------------------------------------
 # 5️⃣ Crop details explainability
