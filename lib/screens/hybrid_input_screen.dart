@@ -1,8 +1,10 @@
+// ignore_for_file: deprecated_member_use
+
 import 'dart:convert';
 import 'dart:io' show Platform;
-import 'crop_detail_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
+import 'crop_detail_screen.dart';
 
 class NoLabReportScreen extends StatefulWidget {
   final String district;
@@ -34,7 +36,7 @@ class _NoLabReportScreenState extends State<NoLabReportScreen> {
 
   String getApiUrl() {
     if (Platform.isWindows) {
-      return 'http://127.0.0.1:5000/predict_no_lab_report';
+      return 'https://agropilot-backend.onrender.com/predict_no_lab_report';
     } else {
       return 'http://192.168.0.101:5000/predict_no_lab_report';
     }
