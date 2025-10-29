@@ -35,9 +35,8 @@ class _NoLabReportScreenState extends State<NoLabReportScreen> {
   }
 
   String getApiUrl() {
-  return 'https://agropilot-backend.onrender.com/predict_no_lab_report';
+  return 'http://127.0.0.1:5000/predict_no_lab_report';
 }
-
 
   Future<void> fetchTopCrops() async {
     if (!mounted) return;
