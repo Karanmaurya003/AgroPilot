@@ -40,7 +40,11 @@ class _LabReportDetailScreenState extends State<LabReportDetailScreen> {
   Future<void> _fetchCropDetails() async {
     try {
       final response = await http.post(
+<<<<<<< HEAD
         Uri.parse('https://agropilot-backend.onrender.com.comget_crop_details'),
+=======
+        Uri.parse('https://agropilot-backend.onrender.com/get_crop_details'),
+>>>>>>> parent of 70f85de (Working vesion on Windows)
         headers: {'Content-Type': 'application/json'},
         body: json.encode({
           'N': widget.inputData['N'],
