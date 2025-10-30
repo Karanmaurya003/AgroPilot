@@ -1,4 +1,4 @@
-// ignore_for_file: deprecated_member_use
+// ignore_for_file: deprecated_member_use, unused_import
 
 import 'dart:convert';
 import 'dart:io' show Platform;
@@ -35,7 +35,7 @@ class _NoLabReportScreenState extends State<NoLabReportScreen> {
   }
 
   String getApiUrl() {
-  return 'http://127.0.0.1:5000/predict_no_lab_report';
+  return 'https://agropilot-backend.onrender.compredict_no_lab_report';
 }
 
   Future<void> fetchTopCrops() async {

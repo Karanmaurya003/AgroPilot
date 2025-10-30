@@ -2,7 +2,7 @@
 
 from flask import Flask, request, jsonify
 from geopy.geocoders import Nominatim
-
+from flask_cors import CORS # Import CORS
 # Import your internal modules
 from weather_service import get_weather_data
 from crop_recommender import get_final_recommendation
@@ -14,7 +14,10 @@ from Top5_Crops_SHAP import (
 import os
 
 app = Flask(__name__)
+CORS(app)  # Initialize CORS for your app
 
+# OR, for more specific control:
+# CORS(app, resources={r"/api/*": {"origins": "*"}})
 # ----------------------------------------
 # Root endpoint (helps avoid 404 at root)
 # ----------------------------------------
