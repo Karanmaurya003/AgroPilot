@@ -7,8 +7,8 @@ import 'package:http/http.dart' as http;
 
 class WeatherService {
   // ✅ Use your live Render backend URL
-  static const String baseUrl = "https://agropilot-backend.onrender";
-  //static const String baseUrl = "https://agropilot-backend.onrender";
+  static const String baseUrl = "https://agropilot-backend.onrender.com";
+  //static const String baseUrl = "https://agropilot-backend.onrender.com";
 
   Future<Map<String, dynamic>> fetchWeather(double lat, double lon) async {
     final url = Uri.parse('$baseUrl/get_weather_and_location?lat=$lat&lon=$lon');

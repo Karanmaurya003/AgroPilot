@@ -62,7 +62,7 @@ class _LabReportScreenState extends State<LabReportScreen>
 
     try {
       final response = await http.post(
-        Uri.parse('https://agropilot-backend.onrender.compredict_lab_report'),
+        Uri.parse('https://agropilot-backend.onrender.com.compredict_lab_report'),
         headers: {'Content-Type': 'application/json'},
         body: json.encode({
           'N': n,
